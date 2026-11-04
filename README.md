@@ -8,19 +8,19 @@ A modern, responsive public university admission dashboard for **Business Studie
 
 | Dashboard | Admission Table |
 |---|---|
-| ![Dashboard](screenshots/01-dashboard.png) | ![Admission table](screenshots/02-admission-table.png) |
+| ![Dashboard](01-dashboard.png) | ![Admission table](02-admission-table.png) |
 
 | SSC GPA Simulator | Unit Detail |
 |---|---|
-| ![SSC simulator](screenshots/03-ssc-simulator.png) | ![Unit detail](screenshots/04-unit-detail.png) |
+| ![SSC simulator](03-ssc-simulator.png) | ![Unit detail](04-unit-detail.png) |
 
 | Additional Subjects | Timeline & Clash Alerts |
 |---|---|
-| ![Additional subjects](screenshots/05-additional-subjects.png) | ![Timeline](screenshots/06-timeline-clashes.png) |
+| ![Additional subjects](05-additional-subjects.png) | ![Timeline](06-timeline-clashes.png) |
 
 | Official Portals | Mobile |
 |---|---|
-| ![Portals](screenshots/07-official-portals.png) | <img src="screenshots/08-mobile.png" width="260" alt="Mobile view"/> |
+| ![Portals](07-official-portals.png) | <img src="08-mobile.png" width="260" alt="Mobile view"/> |
 
 ---
 
